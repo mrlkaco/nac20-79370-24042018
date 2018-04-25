@@ -1,4 +1,4 @@
-﻿1) git clone https://github.com/mrlkaco/php-sample-app
+﻿1) git clone https://github.com/mrlkaco/nac20-79370-24042018
 2) Criamos em frontend o arquivo Dockerfile 
     Estrutura do Dockerfile do Frontend:
     ------------------------------------------------------
